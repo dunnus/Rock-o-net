@@ -47,6 +47,21 @@ The loss against various learning rates are shown below
 2. Modify the model as per your requirements in train.py. To train run python train.py.
 3. Generate new music from random samples by running python generate.py.
 
+##Generated Music
+
+
+https://user-images.githubusercontent.com/73417038/182106363-1812542f-a0b5-488e-9ae4-27104455012c.mp4
+
+
+https://user-images.githubusercontent.com/73417038/182106396-cfe6d703-9ee5-4779-86c8-b6506ac00d4f.mp4
+
+
+https://user-images.githubusercontent.com/73417038/182106423-bf6746e3-1eb1-4f56-83ed-8e6a0a6bc9ce.mp4
+
+
+https://user-images.githubusercontent.com/73417038/182106456-8285ca00-8f45-4939-9a37-76a7189eea61.mp4
+
+
 ## Credits
 https://github.com/jisungk/deepjazz
 https://github.com/Skuldur/Classical-Piano-Composer
